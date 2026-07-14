@@ -11,12 +11,6 @@ Projeto de exemplo desenvolvido em PHP para demonstrar a execução de um script
 
 ---
 
-## 🖼️ Demonstração
-
-> Adicione aqui uma captura de tela ou GIF demonstrando a execução do projeto.
-
----
-
 ## 🚀 Tecnologias utilizadas
 
 * PHP
@@ -108,32 +102,6 @@ Não há scripts automatizados (`composer`, `Makefile` ou equivalentes).
 
 ---
 
-## 🤝 Como contribuir
-
-1. Faça um Fork do projeto.
-2. Crie uma nova branch:
-
-```bash
-git checkout -b minha-feature
-```
-
-3. Faça suas alterações.
-4. Realize um commit:
-
-```bash
-git commit -m "Minha melhoria"
-```
-
-5. Envie para seu repositório:
-
-```bash
-git push origin minha-feature
-```
-
-6. Abra um Pull Request.
-
----
-
 ## 📌 Roadmap
 
 * Organizar a estrutura do projeto.
@@ -145,19 +113,3 @@ git push origin minha-feature
 * Adicionar licença ao projeto.
 
 ---
-
-## 🐛 Problemas conhecidos
-
-Até o momento não há problemas documentados.
-
----
-
-## 📄 Licença
-
-Nenhuma licença foi encontrada no projeto.
-
----
-
-## 👤 Autor
-
-**Autor:** THShikota
